@@ -1,0 +1,6 @@
+{
+    "Welcome": {
+        "text": "PRÓXIMAMENTE",
+        "date": "{{date, DATE_TIME}}"
+    }
+}

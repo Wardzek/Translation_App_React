@@ -1,0 +1,6 @@
+{
+    "Welcome": {
+        "text": "BIENTÔT DISPONIBLE",
+        "date": "{{date, DATE_TIME}}"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "Welcome": {
+        "text": "LAUNCHING SOON",
+        "date": "{{date, DATE_TIME}}"
+    }
+}
